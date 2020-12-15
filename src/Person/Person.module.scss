@@ -1,0 +1,14 @@
+.personCard {
+  border: 1px solid #ccc;
+  width: 60%;
+  margin: 0 auto 15px;
+  box-shadow: 0 2px 3px #eae;
+  padding: 16px;
+  text-align: center;
+}
+
+@media (min-width: 500px) {
+  .personCard {
+    width: 450px;
+  }
+}
